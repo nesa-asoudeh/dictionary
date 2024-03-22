@@ -1,0 +1,26 @@
+{
+  "name": "dictionary",
+  "version": "1.0.0",
+  "description": "A simple dictionary",
+  "main": "findWords.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nesa-asoudeh/dictionary.git"
+  },
+  "keywords": [
+    "search",
+    "words"
+  ],
+  "author": "Nesa Asoudeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nesa-asoudeh/dictionary/issues"
+  },
+  "homepage": "https://github.com/nesa-asoudeh/dictionary#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
